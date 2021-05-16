@@ -6,7 +6,7 @@
   <img align="left" alt="Aura LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
- <img src="https://giphy.com/embed/pdF4XnzOrWcEY7KMBk" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen/>
+ <img src="https://giphy.com/embed/pdF4XnzOrWcEY7KMBk" width="480" height="338" frameBorder="0" class="giphy-embed"/>
 <!--
 **auraPasmin/auraPasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
