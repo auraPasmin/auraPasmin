@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://twitter.com/Mari_Pasmin">
+  <img align="left" alt="Mari_pasmin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 <!--
 **auraPasmin/auraPasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
