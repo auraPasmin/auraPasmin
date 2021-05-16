@@ -5,9 +5,8 @@
 <a href="https://www.linkedin.com/in/aura-pasmin-url/">
   <img align="left" alt="Aura LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=Aura-v)
 
- <iframe src="https://giphy.com/embed/pdF4XnzOrWcEY7KMBk" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pdF4XnzOrWcEY7KMBk">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/pdF4XnzOrWcEY7KMBk" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen/>
 <!--
 **auraPasmin/auraPasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
