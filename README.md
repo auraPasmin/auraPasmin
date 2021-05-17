@@ -18,7 +18,7 @@ I’m a software engineer and Front-end developer with a passion for technology 
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auraPasmin&show_icons=true&theme=dracula)
-<img align="middle" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="100" height="100" />
+<img align="left" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="100" height="100" />
 <br/>
 
 <br/>
