@@ -6,7 +6,8 @@
   <img align="left" alt="Aura LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
-<img align="right" alt="GIF" src="https://https://github.com/auraPasmin/auraPasmin/blob/main/aura-images/yo.gif?raw=true"" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true"" width="500" height="320" />
+
   
   
 <!--
