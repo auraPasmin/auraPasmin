@@ -1,8 +1,9 @@
 🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑
 <br/>
 ### Hi there 👋
-<img align="middle" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="150" height="150" />
+<img align="middle" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="50" height="50" />
 <br/>
+<img src="https://github.com/auraPasmin/auraPasmin/blob/b601de9fa24ff8fabcea80a3a367aa4733920b2d/aura-images/presentation-image.jpg" alt="banner Aura Pasmin">
 🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑
 <br/>
 <a href="https://twitter.com/Mari_Pasmin">
