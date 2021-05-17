@@ -7,6 +7,8 @@
 </a>
 <br/>
 <img align="right" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="150" height="150" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auraPasmin)](https://github.com/anuraghazra/github-readme-stats)
   
   
 <!--
