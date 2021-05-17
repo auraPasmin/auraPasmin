@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/aura-pasmin-url/">
   <img align="left" alt="Aura LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br/>
 🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auraPasmin)](https://github.com/anuraghazra/github-readme-stats)
