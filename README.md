@@ -12,10 +12,12 @@
   <img align="left" alt="Aura LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
+<br/>
 🐱I'm Aura, I love coffee, cats, art and technology, my acquaintances praise me a lot for my creativity. ☕
 I am a student at Universidad del Valle and Holberton school.
 I’m a software engineer and Front-end developer with a passion for technology in projects such as react development, With interests in everything related to software development and agile methodologies, from design to implementation.
 <br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auraPasmin)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
