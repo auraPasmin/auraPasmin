@@ -1,9 +1,5 @@
-<img src="https://github.com/auraPasmin/auraPasmin/blob/52c8dbf314bb832deb3afc9ebf6893b515cfaade/aura-images/momo.png" alt="momo">
-<br/>
 # Hi there 👋 👩‍💻
 <img src="https://github.com/auraPasmin/auraPasmin/blob/b601de9fa24ff8fabcea80a3a367aa4733920b2d/aura-images/presentation-image.jpg" alt="banner Aura Pasmin">
-<img src="https://github.com/auraPasmin/auraPasmin/blob/52c8dbf314bb832deb3afc9ebf6893b515cfaade/aura-images/momo.png" alt="momo">
-<br/>
 <a href="https://twitter.com/Mari_Pasmin">
   <img align="left" alt="Mari_pasmin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -22,16 +18,12 @@
 I am a student at Universidad del Valle and Holberton school.
 I’m a software engineer and Front-end developer with a passion for technology in projects such as react development, With interests in everything related to software development and agile methodologies, from design to implementation.
 <br/>
-<img src="https://github.com/auraPasmin/auraPasmin/blob/52c8dbf314bb832deb3afc9ebf6893b515cfaade/aura-images/momo.png" alt="momo">
-<br/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auraPasmin&show_icons=true&theme=dracula)
 <br/>
-
+<img align="middle" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="120" height="120" />
 <br/>
 <img src="https://github.com/auraPasmin/auraPasmin/blob/52c8dbf314bb832deb3afc9ebf6893b515cfaade/aura-images/momo.png" alt="momo">
 <br/>
-<img align="middle" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="120" height="120" />
   
 <!--
 **auraPasmin/auraPasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
