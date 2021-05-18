@@ -11,10 +11,10 @@
   <img align="left" alt="Aura LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCuSqSbDQQJq5ebjOWJXLyEg">
-  <img align="left" alt="Mari_pasmin | youtube" width="22px" src="https://github.com/auraPasmin/auraPasmin/blob/4170f555566bd24c120bce9f871c50769fe37ae6/aura-images/youtube-logo-5-2.png" />
+  <img align="left" alt="Mari_pasmin | youtube" width="32px" src="https://github.com/auraPasmin/auraPasmin/blob/4170f555566bd24c120bce9f871c50769fe37ae6/aura-images/youtube-logo-5-2.png" />
 </a>
 <a href="https://www.instagram.com/aurapasmin?r=nametag">
-  <img align="left" alt="Mari_pasmin | instagram" width="22px" src="https://github.com/auraPasmin/auraPasmin/blob/ca29c3c439056dd1582a82329e65f2775e847147/aura-images/instagram_ig_logo_icon_134013.png" />
+  <img align="left" alt="Mari_pasmin | instagram" width="32px" src="https://github.com/auraPasmin/auraPasmin/blob/ca29c3c439056dd1582a82329e65f2775e847147/aura-images/instagram_ig_logo_icon_134013.png" />
 </a>
 <br/>
 <br/>
