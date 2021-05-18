@@ -1,6 +1,6 @@
 <img src="https://github.com/auraPasmin/auraPasmin/blob/52c8dbf314bb832deb3afc9ebf6893b515cfaade/aura-images/momo.png" alt="momo">
 <br/>
-### Hi there 👋
+#Hi there 👋 👩‍💻
 <img src="https://github.com/auraPasmin/auraPasmin/blob/b601de9fa24ff8fabcea80a3a367aa4733920b2d/aura-images/presentation-image.jpg" alt="banner Aura Pasmin">
 <img src="https://github.com/auraPasmin/auraPasmin/blob/52c8dbf314bb832deb3afc9ebf6893b515cfaade/aura-images/momo.png" alt="momo">
 <br/>
