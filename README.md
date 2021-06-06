@@ -12,12 +12,12 @@
 <a href="https://www.instagram.com/aurapasmin?r=nametag">
   <img align="left" alt="Mari_pasmin | instagram" width="22px" src="https://github.com/auraPasmin/auraPasmin/blob/d1e51925bbf8300186801821512d504ece48c6ce/aura-images/instagram-1675670_1280.png" />
 </a>
-<br/>
-<br/>
+<br><br>
 🐱I'm Aura, I love coffee, cats, art and technology, my acquaintances praise me a lot for my creativity. ☕
 I am a student at Universidad del Valle and Holberton school.
 I’m a software engineer and Front-end developer with a passion for technology in projects such as react development, With interests in everything related to software development and agile methodologies, from design to implementation.
-<br/>
+<br>
+
 ## Github Stats
 
 <table align="center">
@@ -31,12 +31,26 @@ I’m a software engineer and Front-end developer with a passion for technology 
 	</tr>
 </table>
 
-<br/>
+<h4 align="center">🚀 TECHNOLOGIES
+<br><br>
+<h4 align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <br>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</h4>
+<br>
+
+<br>
 <img align="middle" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="120" height="120" />
-<br/>
+<br>
 <img src="https://github.com/auraPasmin/auraPasmin/blob/52c8dbf314bb832deb3afc9ebf6893b515cfaade/aura-images/momo.png" alt="momo">
-<br/>
-  
+<br>
+ 
 <!--
 **auraPasmin/auraPasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
