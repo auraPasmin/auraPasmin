@@ -13,8 +13,7 @@
   <img align="left" alt="Mari_pasmin | instagram" width="22px" src="https://github.com/auraPasmin/auraPasmin/blob/d1e51925bbf8300186801821512d504ece48c6ce/aura-images/instagram-1675670_1280.png" />
 </a>
 <br><br>
-🐱I'm Aura, I love coffee, cats, art and technology, my acquaintances praise me a lot for my creativity. ☕
-I’m a software engineer and Front-end developer with a passion for technology in projects such as react development, With interests in everything related to software development and agile methodologies, from design to implementation.
+I am a software engineer and Front-end developer with interests in everything related to software development and agile methodologies, from design to implementation. I am an open-minded person and you often come up with new and interesting ideas. new and interesting ideas. You want a career based on I feel comfortable meeting new people, attending your networking events and networking events
 <br>
 
 ## Github Stats
