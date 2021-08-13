@@ -46,8 +46,6 @@ I am a software engineer and Front-end developer with interests in everything re
 <br>
 <img align="middle" alt="GIF" src="https://github.com/auraPasmin/auraPasmin/blob/e8acd4bcf6889d518380840f88ccefe552796250/aura-images/yo.gif?raw=true" width="120" height="120" />
 <br>
-<img src="https://github.com/auraPasmin/auraPasmin/blob/52c8dbf314bb832deb3afc9ebf6893b515cfaade/aura-images/momo.png" alt="momo">
-<br>
  
 <!--
 **auraPasmin/auraPasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
