@@ -13,7 +13,7 @@
   <img align="left" alt="Mari_pasmin | instagram" width="22px" src="https://github.com/auraPasmin/auraPasmin/blob/d1e51925bbf8300186801821512d504ece48c6ce/aura-images/instagram-1675670_1280.png" />
 </a>
 <br><br>
-I am a software engineer and Front-end developer with interests in everything related to software development and agile methodologies, from design to implementation. I am an open-minded person and you often come up with new and interesting ideas. new and interesting ideas. You want a career based on I feel comfortable meeting new people, attending your networking events and networking events
+I am a software developer and Front-end developer with interests in everything related to software development and agile methodologies, from design to implementation. I am an open-minded person and you often come up with new and interesting ideas. new and interesting ideas. You want a career based on I feel comfortable meeting new people, attending your networking events and networking events
 <br>
 
 ## Github Stats
