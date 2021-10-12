@@ -1,5 +1,5 @@
 # Hi there 👋 👩‍💻
-<img src="https://github.com/auraPasmin/auraPasmin/blob/b601de9fa24ff8fabcea80a3a367aa4733920b2d/aura-images/presentation-image.jpg" alt="banner Aura Pasmin">
+<img src="https://github.com/auraPasmin/auraPasmin/blob/main/aura-images/portada.jpg" alt="banner Aura Pasmin">
 <a href="https://twitter.com/Mari_Pasmin">
   <img align="left" alt="Mari_pasmin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
