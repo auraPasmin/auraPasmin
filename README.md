@@ -13,7 +13,8 @@
   <img align="left" alt="Mari_pasmin | instagram" width="22px" src="https://github.com/auraPasmin/auraPasmin/blob/d1e51925bbf8300186801821512d504ece48c6ce/aura-images/instagram-1675670_1280.png" />
 </a>
 <br><br>
-I am a software developer and Front-end developer with interests in everything related to software development and agile methodologies, from design to implementation. I am an open-minded person and you often come up with new and interesting ideas. new and interesting ideas. You want a career based on I feel comfortable meeting new people, attending your networking events and networking events
+I am a designer and Front-end developer interested in internet trends, design, video games, and agile methodologies. I like to participate in converting interesting ideas into real digital experiences.
+I am an open-minded person with teamwork skills, friendly, and good at pc and console gaming, and I like video streaming and also feel comfortable meeting new people in code events to create networking.
 <br>
 
 ## Github Stats
