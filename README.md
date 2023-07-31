@@ -1,9 +1,9 @@
 # Hi there 👋 👩‍💻
 <img src="https://github.com/auraPasmin/auraPasmin/blob/main/aura-images/portada.jpg" alt="banner Aura Pasmin">
-<a href="https://twitter.com/Mari_Pasmin">
-  <img align="left" alt="Mari_pasmin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/aurarsm">
+  <img align="left" alt="aurarsm | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/aura-pasmin-url/">
+<a href="https://www.linkedin.com/in/aurapasmin/">
   <img align="left" alt="Aura LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCuSqSbDQQJq5ebjOWJXLyEg">
